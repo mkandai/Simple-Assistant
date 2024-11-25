@@ -22,6 +22,7 @@ pip install -r requirements.txt
 
 The project expects the following file structure:
 
+```
 Simple-Assistant/
 │
 ├── settings/
@@ -37,6 +38,7 @@ Simple-Assistant/
 │   └── validation.py            # Data structure for data validation
 │
 └── main.py                      # Main program file (Simple Assistant)
+```
 
 ## Getting Started
 
