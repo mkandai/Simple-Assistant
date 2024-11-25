@@ -1,0 +1,170 @@
+[
+  {
+    "title": "Marienplatz",
+    "position": {
+      "lat": 48.136303966,
+      "lng": 11.57466799
+    },
+    "distance_from_current_location": "200 meters",
+    "duration_from_current_location": "1 minute",
+    "address": "Rindermarkt 16, 80331 München",
+    "categories": ["Parking"],
+    "businessHours": {
+      "formattedHours": ["Open 24 hours"],
+      "nextStatusChange": "Open 24 hours",
+      "currentStatus": "OPEN"
+    },
+    "contactInfo": {
+      "phoneNumber": "+49 00 000000000"
+    },
+    "paymentMethods": [
+      "CREDIT_CARD_VISA",
+      "CASH",
+      "CREDIT_CARD_AMEX",
+      "DEBIT_MAESTRO",
+      "CREDIT_CARD_MASTER"
+    ],
+    "priceSummary": {
+      "priceSummaryText": "10.00 € / 2h",
+      "free": false
+    },
+    "priceStructured": {
+      "listPrices": [
+        {
+          "service": "PARKING",
+          "price": "Open 24 hours: 5.00 € / 1 hour"
+        },
+        {
+          "service": "PARKING",
+          "price": "Open 24 hours: 36.00 € / 24 hours"
+        }
+      ]
+    },
+    "parking": {
+      "spotsNumber": 265,
+      "freeSpotsNumber": 63,
+      "disabledSpotsNumber": 2,
+      "parkingDimensionRestriction": {
+        "height": 1.8,
+        "width": 2.3
+      },
+      "services": ["DISABLED"],
+      "types": ["PCOV"],
+      "operator": "Contipark Parkgaragengesellschaft mbH"
+    },
+    "availability": "ALMOST_OCCUPIED"
+  },
+  {
+    "title": "City",
+    "position": {
+      "lat": 48.137116173,
+      "lng": 11.571689397
+    },
+    "distance_from_current_location": "300 meters",
+    "duration_from_current_location": "5 minutes",
+    "address": "Färbergraben 5, 80331 München",
+    "categories": ["Car parks"],
+    "businessHours": {
+      "formattedHours": ["Mon - Sat: 07:00 - 00:00"],
+      "nextStatusChange": "Closes at 24:00",
+      "currentStatus": "OPEN"
+    },
+    "contactInfo": {
+      "phoneNumber": "+49 00 000000"
+    },
+    "paymentMethods": ["CREDIT_CARD_VISA", "CASH", "CREDIT_CARD_MASTER"],
+    "priceSummary": {
+      "priceSummaryText": "6.00 € / 2h",
+      "free": false
+    },
+    "priceStructured": {
+      "listPrices": [
+        {
+          "service": "PARKING",
+          "price": "Open 24 hours: 3.00 € / 1 hour"
+        },
+        {
+          "service": "PARKING",
+          "price": "Open 24 hours: 6.00 € / 2 hours"
+        },
+        {
+          "service": "PARKING",
+          "price": "Open 24 hours: 9.00 € / 3 hours"
+        },
+        {
+          "service": "PARKING",
+          "price": "Open 24 hours: 12.00 € / 4 hours"
+        },
+        {
+          "service": "PARKING",
+          "price": "Open 24 hours: 15.00 € / 5 hours"
+        },
+        {
+          "service": "PARKING",
+          "price": "Open 24 hours: 18.00 € / 6 hours"
+        },
+        {
+          "service": "PARKING",
+          "price": "Open 24 hours: 21.00 € / 7 hours"
+        },
+        {
+          "service": "PARKING",
+          "price": "Open 24 hours: 24.00 € / 24 hours"
+        }
+      ]
+    },
+    "parking": {
+      "spotsNumber": 400,
+      "parkingDimensionRestriction": {
+        "height": 2.3
+      },
+      "types": ["MSTOP"],
+      "operator": "MÜHOGA Münchner Hochgaragen GmbH"
+    }
+  },
+  {
+    "title": "Platzl Hotel München",
+    "position": {
+      "lat": 48.138232209,
+      "lng": 11.579035968
+    },
+    "distance_from_current_location": "300 meters",
+    "duration_from_current_location": "11 minutes",
+    "address": "Sparkassenstraße 10, 80331 München",
+    "categories": ["Car parks"],
+    "businessHours": {
+      "formattedHours": ["Open 24 hours"],
+      "nextStatusChange": "Open 24 hours",
+      "currentStatus": "OPEN"
+    },
+    "contactInfo": {
+      "phoneNumber": "+49 00 000000"
+    },
+    "paymentMethods": ["CASH"],
+    "priceSummary": {
+      "priceSummaryText": "8.00 € / 2h",
+      "free": false
+    },
+    "priceStructured": {
+      "listPrices": [
+        {
+          "service": "PARKING",
+          "price": "Open 24 hours: 4.00 € / 1 hour"
+        },
+        {
+          "service": "PARKING",
+          "price": "Open 24 hours: 30.00 € / 24 hours"
+        }
+      ]
+    },
+    "parking": {
+      "spotsNumber": 62,
+      "parkingDimensionRestriction": {
+        "height": 1.85,
+        "width": 2.1
+      },
+      "types": ["UP"],
+      "operator": "Platzl Hotel Inselkammer KG"
+    }
+  }
+]

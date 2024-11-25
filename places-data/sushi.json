@@ -1,0 +1,146 @@
+[
+    {
+      "title": "Sasou",
+      "position": {
+        "lat": 48.13697,
+        "lng": 11.5748
+      },
+      "distance_from_current_location": "65.29277618006775 meters",
+      "address": "Marienplatz 28, 80331 Munich",
+      "categories": [
+        "Restaurant",
+        "Catering & Food Services"
+      ],
+      "businessHours": {
+        "formattedHours": [
+          "Mon - Sat: 11:00 - 21:00"
+        ],
+        "nextStatusChange": "Closes at 21:00",
+        "currentStatus": "OPEN"
+      },
+      "reviews": {
+        "averageRating": 3.5,
+        "reviewCount": 187
+      },
+      "foodTypes": [
+        "Japanese - Sushi",
+        "Asian",
+        "Japanese",
+        "Southeast Asian",
+        "German",
+        "Fast Food",
+        "Soup"
+      ],
+      "contactInfo": {
+        "phoneNumber": "+49 00 000000"
+      },
+      "priceSummary": {
+        "priceRangeLevel": "3 out of 5",
+        "free": false
+      }
+    },
+    {
+      "title": "Galeria Restaurant",
+      "position": {
+        "lat": 48.13711,
+        "lng": 11.57407
+      },
+      "distance_from_current_location": "200 meters",
+      "duration_from_current_location": "1 minute",
+      "address": "Kaufingerstraße 1, 80331 Munich",
+      "categories": [
+        "Restaurant",
+        "Tea Room"
+      ],
+      "businessHours": {
+        "formattedHours": [
+          "Mon - Sat: 10:00 - 19:00"
+        ],
+        "nextStatusChange": "Closes at 19:00",
+        "currentStatus": "OPEN"
+      },
+      "reviews": {
+        "averageRating": 4,
+        "reviewCount": 159
+      },
+      "foodTypes": [
+        "Japanese - Sushi",
+        "European",
+        "German"
+      ],
+      "contactInfo": {
+        "phoneNumber": "+49 00 00000000"
+      },
+      "priceSummary": {
+        "priceRangeLevel": "1 out of 5",
+        "free": false
+      }
+    },
+    {
+      "title": "Shaokao Asian Grill&Wine",
+      "position": {
+        "lat": 48.13723,
+        "lng": 11.57303
+      },
+      "distance_from_current_location": "200 meters",
+      "duration_from_current_location": "7 minutes",
+      "address": "Fürstenfelder Straße 9, 80331 Munich",
+      "categories": [
+        "Restaurant"
+      ],
+      "businessHours": {
+        "formattedHours": [
+          "Mon - Fri: 11:00 - 15:00",
+          "Mon - Fri: 17:00 - 22:00",
+          "Sat: 11:00 - 22:30"
+        ],
+        "nextStatusChange": "Opens at 17:00",
+        "currentStatus": "CLOSED"
+      },
+      "foodTypes": [
+        "Japanese - Sushi",
+        "Asian",
+        "Chinese",
+        "Japanese",
+        "European",
+        "International",
+        "Fusion",
+        "Grill"
+      ],
+      "contactInfo": {
+        "phoneNumber": "+49 000 000000000"
+      },
+      "priceSummary": {
+        "free": false
+      }
+    },
+    {
+      "title": "Secret Garden",
+      "position": {
+        "lat": 48.1357,
+        "lng": 11.57755
+      },
+      "distance_from_current_location": "300 meters",
+      "duration_from_current_location": "10 minutes",
+      "address": "Heiliggeiststraße 2A, 80331 Munich",
+      "categories": [
+        "Restaurant"
+      ],
+      "reviews": {
+        "averageRating": 4,
+        "reviewCount": 23
+      },
+      "foodTypes": [
+        "Japanese - Sushi",
+        "Asian",
+        "Vietnamese",
+        "Vegan"
+      ],
+      "contactInfo": {
+        "phoneNumber": "+49 00 00000000"
+      },
+      "priceSummary": {
+        "free": false
+      }
+    }
+]
